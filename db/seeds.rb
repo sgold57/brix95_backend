@@ -79,3 +79,10 @@ Strain.create({
   description: "Super rare, this is actually the first strain discovered. Dry and stale, but a great story to email your friends on AOL version 4.5!"
 })
 
+Strain.create({
+  name: "Uncontainable Wild",
+  thc_content: 5.55,
+  species: "sativa",
+  description: "Unique in that it is ONLY GROWN outdoors, users have stated that their bags of weed have contained woodchips."
+})
+
