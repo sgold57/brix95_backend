@@ -124,7 +124,7 @@ Strain.create({
   name: "St. Ides",
   thc_content: 0.00,
   species: "malt liquor 40",
-  description: "Not weed, but it'll mess you up... also cheaper!"
+  description: "Not weed, but it'll mess you up... also cheaper!",
   url: "https://untappd.akamaized.net/photos/2021_02_10/d6cb880393b9d0f1e82584d43034bd3a_640x640.jpg"
 })
 
@@ -140,7 +140,7 @@ Strain.create({
   name: "The Spliffsonian",
   thc_content: 8.45,
   species: "hybrid", 
-  description: "This is weed that'll get your friend rambling on about who knows what and thinking everything they say is correct, even though you both know they're a moron.":
+  description: "This is weed that'll get your friend rambling on about who knows what and thinking everything they say is correct, even though you both know they're a moron.",
   url: "https://2.bp.blogspot.com/-ZywnEyWAtz4/UiWVQlkyycI/AAAAAAAAFA4/ar2F7xV0bHM/s640/Brick-Weed2.jpg"
 })
 
@@ -173,7 +173,7 @@ Strain.create({
   name: "BrickBuster",
   thc_content: 21.64,
   species: "hybrid",
-  description: "Can't rent your favorite VHS? Rent some weed instead! Unique packaging as well."
+  description: "Can't rent your favorite VHS? Rent some weed instead! Unique packaging as well.",
   url: "https://assets.fontsinuse.com/static/use-media-items/21/20209/full-1416x1754/567beb31/taoe.jpeg?resolution=0"
 })
 
