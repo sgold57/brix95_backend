@@ -7,7 +7,7 @@ class StrainsController < ApplicationController
 
   def show
     @strain = Strain.find(params[:id])
-    render json: @bird
+    render json: @strain
   end
 
 
