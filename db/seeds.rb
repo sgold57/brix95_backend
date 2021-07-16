@@ -96,3 +96,85 @@ Strain.create({
   url: "https://i2.wp.com/stuffstonerslike.com/wp-content/uploads/2012/04/big-bag-of-weed.jpg"
   })
 
+Strain.create({
+  name: "Serin Gas",
+  thc_content: 40.08,
+  species: "indica",
+  description: "It'll knock you out!",
+  url: "https://uploads.tapatalk-cdn.com/20170826/4009bfbe2e9619072bd9e4b39e9d51b0.jpg"
+})
+
+Strain.create({
+  name: "Bill Clinton's Magical Herb",
+  thc_content: 26.50,
+  species: "hybrid",
+  description: "This bud will get you high even without inhalation.",
+  url: "http://www.herbmagic.com/snake-weed-large.jpg"
+})
+
+Strain.create({
+  name: "Chronic The Hedgehog",
+  thc_content: 13.86,
+  species: "sativa",
+  description: "One hit of this stuff will have you zooming around all day. Recommended for outdoor use, as interior destruction is a noted side effect.",
+  url: "http://images6.fanpop.com/image/photos/43100000/Movie-Sonic-On-Weed-sonic-the-hedgehog-43168656-2560-1440.jpg"
+})
+
+Strain.create({
+  name: "St. Ides",
+  thc_content: 0.00,
+  species: "malt liquor 40",
+  description: "Not weed, but it'll mess you up... also cheaper!"
+  url: "https://untappd.akamaized.net/photos/2021_02_10/d6cb880393b9d0f1e82584d43034bd3a_640x640.jpg"
+})
+
+Strain.create({
+  name: "The Y2K Bud",
+  thc_content: 19.99,
+  species: "hybrid",
+  description: "Known for causing mass paranoia, this could be the end of the world!",
+  url: "https://www.420magazine.com/gallery/data/500/DSC032724.JPG"
+})
+
+Strain.create({
+  name: "The Spliffsonian",
+  thc_content: 8.45,
+  species: "hybrid", 
+  description: "This is weed that'll get your friend rambling on about who knows what and thinking everything they say is correct, even though you both know they're a moron.":
+  url: "https://2.bp.blogspot.com/-ZywnEyWAtz4/UiWVQlkyycI/AAAAAAAAFA4/ar2F7xV0bHM/s640/Brick-Weed2.jpg"
+})
+
+Strain.create({
+  name: "Here Today, Bong Tomorrow",
+  thc_content: 25.00,
+  species: "hybrid",
+  description: "This stuff is fire, but somehow a gram disappears between purchase and arriving home without you smoking any. Who's to blame?",
+  url: "https://www.gardeningknowhow.com/wp-content/uploads/2007/05/weeds.jpg"
+
+})
+
+Strain.create({
+  name: "Lunchable's Appetizer",
+  thc_content: 14.39,
+  species: "hybrid",
+  description: "Perfect starter before a healthy, square meal.",
+  url: "https://www.royalqueenseeds.com/modules/prestablog/themes/royalqueenseeds/up-img/1035.jpg"
+})
+
+Strain.create({ 
+  name: "Oscar The Couch",
+  thc_content: 15.28,
+  species: "indica",
+  description: "Regression weed. Will have you incapacitated watching hours of Sesame Street with virtually no effort at all.",
+  url: "https://www.wweek.com/resizer/lbU8A-YmVXq6NuzWKFjZGHw__6c=/1200x0/filters:quality(100)/s3.amazonaws.com/arc-wordpress-client-uploads/wweek/wp-content/uploads/2017/03/17001412/CBD_massage_marijuana_THC_TylerGross.png"
+})
+
+Strain.create({
+  name: "BrickBuster",
+  thc_content: 21.64,
+  species: "hybrid",
+  description: "Can't rent your favorite VHS? Rent some weed instead! Unique packaging as well."
+  url: "https://assets.fontsinuse.com/static/use-media-items/21/20209/full-1416x1754/567beb31/taoe.jpeg?resolution=0"
+})
+
+
